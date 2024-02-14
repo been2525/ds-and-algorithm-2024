@@ -1,4 +1,4 @@
-# ds05-01_orderList.py
+# ds05.01_orderList.py
 # desc : 특수 다항식의 선형 리스트 표현
 
 def printPoly(t_x, p_x):
