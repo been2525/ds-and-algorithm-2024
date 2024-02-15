@@ -13,8 +13,8 @@ def isQueueFull():
             for i in range(front+1, SIZE):
                 queue[i-1] = queue[i] # front에다가 front +1의 값을 할당
                 queue[i] = None
-        front -= 1
-        rear = -1
+            front -= 1
+            rear = -1
         return False
 
 # Queue 엠티확인함수
