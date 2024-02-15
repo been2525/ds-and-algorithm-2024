@@ -66,11 +66,11 @@ if __name__ == '__main__':
             data = pop()
             print(f'추출 데이터 : {data}')
             print(f'스택상태 : {stack}')
-        elif select.lower == 'e':
+        elif select.lower() == 'e':
             data = peek()
             print(f'확인 데이터 : {data}')
             print(f'스택상태 : {stack}')
-        elif select.lower == 'x':
+        elif select.lower() == 'x':
             exit(0)
         else:
             continue
