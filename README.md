@@ -42,7 +42,7 @@
 - 파이썬 자료구조/알고리즘
     - 그래프
 
-![그래프개념](https://raw.githubusercontent.com/been2525/ds-and-algorithm-2024/main/images/qraph02.png)
+![그래프개념](https://raw.githubusercontent.com/been2525/ds-and-algorithm-2024/main/images/graph02.png)
 
 ## 6일차 (24.02.19)
 - 파이썬 자료구조/알고리즘
