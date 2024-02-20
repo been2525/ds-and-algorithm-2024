@@ -3,7 +3,7 @@
 
 # Queue 풀확인함수
 def isQueueFull():
-    global SIZE, rear, front, rear
+    global SIZE, queue, front, rear
     if rear != (SIZE -1): # 큐가 아직 빈상태
         return False
     elif rear == (SIZE-1) and front == -1: # 큐가 꽉 찬 상태
